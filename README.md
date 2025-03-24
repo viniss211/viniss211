@@ -30,7 +30,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/viniss211/viniss211/output/snake.svg" alt="Snake animation" />
-
-###
