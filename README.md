@@ -1,4 +1,4 @@
-<p align="left">E aí beleza? Bem vindo(a) ao meu perfil!</p>
+<p align="left">👋 Olá! Sou Vinícius de Souza, desenvolvedor de software e entusiasta de IoT e sistemas embarcados.<br>Atualmente curso Engenharia de Software no INATEL e tenho experiência prática com Python, JavaScript, C++, MicroPython e Java.<br><br>Já participei de projetos envolvendo controle de acesso, estufas inteligentes (IoT), reconhecimento facial com visão computacional, desenvolvimento mobile com Android Studio, testes automatizados com Pytest e CI/CD.<br><br>Tenho interesse em desenvolvimento fullstack, automações, criaçãos de sistemas e mobile e sempre estou atrás de novas oportunidades de aprendizado.<br><br>🔧 Aqui você vai encontrar repositórios que refletem minha jornada de aprendizado e projetos práticos feitos com paixão por tecnologia!</p>
 
 ###
 
@@ -26,6 +26,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
 </div>
+
+###
+
+<p align="left">Se quer conhecer um pouco mais da minha jornada, no link do linkedin 🚀🚀</p>
 
 ###
 
