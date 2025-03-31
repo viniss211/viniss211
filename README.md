@@ -33,7 +33,7 @@
 
 ###
 
-<p align="left">Se quer conhecer um pouco mais da minha jornada, no link do linkedin 🚀🚀</p>
+<p align="left">Se quer conhecer um pouco mais da minha jornada, clique no link do linkedin 🚀🚀</p>
 
 ###
 
